@@ -55,7 +55,7 @@ def track_referral(update: Update, context: CallbackContext) -> None:
 # Set up the bot
 def main() -> None:
     # Create the Updater and pass it your bot's token
-    updater = Updater("6006582026:AAGx71HPzA43UJ-lmJglw-_cFgM_UDCffyQ")
+    updater = Updater("600xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
